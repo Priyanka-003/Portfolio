@@ -42,7 +42,7 @@ const Home = () => {
           Priyanka Saravanan
         </p>
         <div className="flex space-x-2 items-center">
-          <h3 className="text-3xl md:text-4xl">I &aops;s m</h3>
+          <h3 className="text-3xl md:text-4xl">I am</h3>
           <h3 className="text-3xl md:text-4xl text-sky-300">Developer</h3>
         </div>
         <p className="text-center md:text-left text-lg max-w-[300px] md:max-w-[630px]">
