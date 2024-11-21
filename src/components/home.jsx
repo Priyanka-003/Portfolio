@@ -11,7 +11,7 @@ import 'aos/dist/aos.css';
 import { useEffect } from 'react';
 import gsap from 'gsap';
 
-const home = () => {
+const Home = () => {
   
     useEffect(() => {
     
@@ -42,7 +42,7 @@ const home = () => {
           Priyanka Saravanan
         </p>
         <div className="flex space-x-2 items-center">
-          <h3 className="text-3xl md:text-4xl">I'm</h3>
+          <h3 className="text-3xl md:text-4xl">I &aops m</h3>
           <h3 className="text-3xl md:text-4xl text-sky-300">Developer</h3>
         </div>
         <p className="text-center md:text-left text-lg max-w-[300px] md:max-w-[630px]">
@@ -74,4 +74,4 @@ const home = () => {
   )
 }
 
-export default home
+export default Home
